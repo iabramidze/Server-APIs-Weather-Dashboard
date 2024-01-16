@@ -1,0 +1,36 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, blue 0%,darkblue 100%);
+    margin-bottom: 20px;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+#search-button {
+    background: linear-gradient(to right, blue 0%,darkblue 100%);
+    width: 100%;
+}
+
+.search-history {
+    background-color: gray;
+    color: white;
+}
+
+#clear-history {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    flex: content;
+}
+
+.forecast-card{
+    background: linear-gradient(to bottom, lightblue 0%,lightyellow 100%);
+    padding: 20px;
+}
